@@ -1,0 +1,3 @@
+In Python, you can write a program to count the sum of inputted numbers.
+In Python, you can import modules to solve different problems.
+In Python, you can use various data types such as lists, strings, tuples.
